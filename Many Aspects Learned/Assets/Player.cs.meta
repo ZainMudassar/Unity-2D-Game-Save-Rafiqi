@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 86b5ce646fb0fae4ab0dda439b985451
+timeCreated: 1521597613
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - canvas: {instanceID: 0}
+  - gM: {instanceID: 0}
+  - bananaSound: {instanceID: 0}
+  - playerJump: {instanceID: 0}
+  - playerDeath: {instanceID: 0}
+  - knifePrefab: {fileID: 1302915924239628, guid: 1529953e864914a4181c7362f331888f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
